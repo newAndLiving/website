@@ -23,7 +23,7 @@ featured_post = true
 # layout
 post_layout = "grid" # layout value (full, grid or list)
 # Sidebar
-sidebar = "right" # sidebar value (left, right or false)
+sidebar = "left" # sidebar value (left, right or false)
 # custom script on header
 custom_script= ""
 
@@ -99,7 +99,7 @@ button = "I Accept 🙂"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["search", "about-me", "promotion", "subscription", "categories", "recent-post", "tags", "social"]
+sidebar = ["search", "about-me", "subscription", "categories", "recent-post", "tags", "social"]
 # available widget : search,about-me,categories,tags,recent-post,social,promotion,subscription
 
 
@@ -114,12 +114,12 @@ name = "twitter"
 icon = "fab fa-twitter" # fontawesome icons: https://fontawesome.com/icons/
 link = "#"
 
-[[social]]
-name = "linkedin"
-icon = "fab fa-linkedin-in" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# name = "linkedin"
+# icon = "fab fa-linkedin-in" # fontawesome icons: https://fontawesome.com/icons/
+# link = "#"
 
 [[social]]
-name = "github"
-icon = "fab fa-github" # fontawesome icons: https://fontawesome.com/icons/
+name = "youtube"
+icon = "fab fa-youtube" # fontawesome icons: https://fontawesome.com/icons/
 link = "#"

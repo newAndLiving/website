@@ -14,8 +14,8 @@ social:
     link: "https://twitter.com"
   - icon: "fab fa-instagram"
     link: "https://instagram.com"
-  - icon: "fab fa-linkedin-in"
-    link: "https://linkedin.com"
+  # - icon: "fab fa-linkedin-in"
+  #   link: "https://linkedin.com"
 ---
 
 ## Our Mission
@@ -29,8 +29,6 @@ So, our mission is to take the Mystery of the Gospel beyond the pulpit, beyond f
 
 ## Our Vision
 
-This ‘Mystery’ was hidden from previous generations in the Old Testament by God but now, it has been revealed unto men by the Holy Spirit in the New Testament, that “CHRIST in You (earthly vessels), is the HOPE OF GLORY”! (The Mystery which has been hidden from ages and from generations, but now has been revealed to His Saints.
-
-‘To them God willed to make known what are the riches of the glory of this mystery among the Gentiles:] which is Christ in you, the hope of glory’). (Col.1:26-27)
+This ‘Mystery’ was hidden from previous generations in the Old Testament by God but now, it has been revealed unto men by the Holy Spirit in the New Testament, that “CHRIST in You (earthly vessels), is the HOPE OF GLORY”! (The Mystery which has been hidden from ages and from generations, but now has been revealed to His Saints.‘To them God willed to make known what are the riches of the glory of this mystery among the Gentiles:] which is Christ in you, the hope of glory’) (Col.1:26-27).
 
 This one thing, we will pursue until everyone come to the unity of the faith, and of the knowledge of the Son of God, unto a perfect (complete and mature) man, unto the measure of the stature of the fullness of Christ. (Ephesians 4:13).

@@ -1,0 +1,223 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://thisnewandlivingway.org
+Data file = /home3/xjr9lfoj/thisnewandlivingway.org/wp-content/uploads/2020/07/demo-content-import-file_2020-07-14__15-15-57.xml
+Widget file = /home3/xjr9lfoj/thisnewandlivingway.org/wp-content/uploads/2020/07/demo-widgets-import-file_2020-07-14__15-15-57.json
+Customizer file = /home3/xjr9lfoj/thisnewandlivingway.org/wp-content/uploads/2020/07/demo-customizer-import-file_2020-07-14__15-15-57.dat
+Redux files:
+papr_options -> /home3/xjr9lfoj/thisnewandlivingway.org/wp-content/uploads/2020/07/demo-redux-import-file_0-2020-07-14__15-15-57.json 
+
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+axil-sidebar-sidebar-for-shop : Sidebar does not exist in theme (moving widget to Inactive)
+
+Product Search - No Title - Imported to Inactive
+Filter Products by Attribute - Filter by - Imported to Inactive
+Filter Products by Price - Filter by price - Imported to Inactive
+Product Tag Cloud - Product tags - Imported to Inactive
+
+Sidebar : 
+
+Mailchimp Sign-Up Form - No Title - Imported
+papr: Categories - Categories - Imported
+AccessPress Social Counter - No Title - Imported
+Papr - Recent Tabs - No Title - Imported
+Tag Cloud - No Title - Imported
+Text - Instagram - Imported
+
+Footer Bottom Right : 
+
+Navigation Menu - No Title - Imported
+Navigation Menu - Entertainment - Imported
+Navigation Menu - Health - Imported
+Navigation Menu - About - Imported
+
+Footer 1 : 
+
+Navigation Menu - World - Imported
+
+Footer 2 : 
+
+Navigation Menu - International - Imported
+
+Footer 3 : 
+
+Navigation Menu - Entertainment - Imported
+
+Footer 4 : 
+
+Navigation Menu - Business - Imported
+
+Footer 5 : 
+
+Navigation Menu - Health - Imported
+
+Footer 6 : 
+
+Navigation Menu - About - Imported
+
+Sidebar For About Page  : 
+
+AccessPress Social Counter - No Title - Imported
+Papr - Recent Tabs - No Title - Imported
+Text - Instagram - Imported
+
+Sidebar For Home 3  : 
+
+AccessPress Social Counter - No Title - Imported
+Mailchimp Sign-Up Form - No Title - Imported
+papr: Categories - No Title - Imported
+Papr - Recent Tabs - No Title - Imported
+Text - Instagram - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: papr_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
