@@ -1,9 +1,9 @@
 ---
-title: The Stewards responsibility even in times like this…
-author: Author
+title: Temptation and Sin – Part 6
+author: GBENGA AKINDELE
 type: "regular"
-date: 2020-07-04T18:50:57+00:00
-#url /podcasts/the-stewards-responsibility-even-in-times-like-this/
+date: 2020-09-26T22:47:43+00:00
+#url /podcasts/temptation-and-sin-part-6/
 image: images/wp-content/uploads/2020/07/Podcast.jpg
 axil_layout:
   - default
@@ -35,12 +35,14 @@ axil_post_layout:
   - default
 categories:
   - Podcasts
+tags:
+  - youth episode
 
 ---
-This is a continuation on a three part series on what should be your responsibility as a believer in the current global climate.
+In this Part 6 of our series on Temptation and Sin, we discussed on how do we tempt God?
 
-Has the Lord made provision for His faithful steward to prepare them for His sudden appearing?
+There are various ways by which mankind tempt God. You will be surprised to know how we tempt God until you listen to this episode on Temptation and Sin.
 
-Listen to your favourite Podcast &#8211; The Lampstand for more. shalom!<figure></figure> 
+Why don&#8217;t join us and find out in this part how we tempt God? Shalom!&nbsp;
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

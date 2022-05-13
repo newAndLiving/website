@@ -1,9 +1,9 @@
 ---
-title: How to Have a Closer Walk with God 1
+title: How to Have a Closer Walk with God 2
 author: Author
 type: "regular"
-date: 2020-06-22T11:49:31+00:00
-#url /podcasts/how-to-have-a-closer-walk-with-god-1/
+date: 2020-07-20T11:53:19+00:00
+#url /podcasts/how-to-have-a-closer-walk-with-god-2/
 image: images/wp-content/uploads/2020/07/Podcast.jpg
 axil_layout:
   - default

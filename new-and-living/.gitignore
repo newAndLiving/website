@@ -1,0 +1,7 @@
+.idea/
+.vscode/*
+node_modules/
+.public/
+_article-drafts/
+key.txt
+copy_file.py
