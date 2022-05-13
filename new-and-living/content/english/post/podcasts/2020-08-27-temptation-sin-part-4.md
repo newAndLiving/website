@@ -36,8 +36,8 @@ axil_post_layout:
 categories:
   - Podcasts
 tags:
-  - 'Temptation &amp; Sin'
-
+  - Temptation
+  - Sin
 ---
 Have you ever sat down and thought about the conversation between Eve and the Serpent in Genesis 3:1-6? Who do think she was having conversation with? Is there any link between the Serpent and the Old dragon who deceives mankind?
 

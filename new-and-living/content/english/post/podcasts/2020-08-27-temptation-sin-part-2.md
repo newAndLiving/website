@@ -36,7 +36,8 @@ axil_post_layout:
 categories:
   - Podcasts
 tags:
-  - 'Temptation &amp; Sin'
+  - Temptation 
+  - Sin
 
 ---
 With many choices flashing at us today like a Formula 1 race car, it is becoming increasingly difficult for many to resist the fluidity of adverts from running in their mileages right before our faces.
@@ -44,7 +45,5 @@ With many choices flashing at us today like a Formula 1 race car, it is becoming
 In this Episode of Temptation, it is appropriate to ask these questions, &#8220;Is there any association between Temptation and Sin? Is Temptation sin? and who is the Tempter? God or Satan?&#8221;
 
 Please join us as we carefully search the Scriptures to get answers to these questions. Shalom
-
-
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

@@ -36,28 +36,19 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - Estimation
-  - family values
-  - heritage
-  - Holy Spirit
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - personal intimacy with God
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - youth episode
+  - youth
 
 ---
 **CONVERSATION WITH PRINCESS**
 
-Hi Precious Friends, 
+Hi Precious Friends,
 
 This is the final part of my frank conversation with Princess. There are millions of authors out there whose inner life is incongruent with their books. But in this podcast session, I have found Princess young life with a difference.
 
-In this final part, she shared with me her strong point. And guess what that is? It is her personal intimacy with the Lord. She revealed that the most important ingredient to keep your fire burning is nothing but an unbroken and blended relationship with the Holy Spirit. 
+In this final part, she shared with me her strong point. And guess what that is? It is her personal intimacy with the Lord. She revealed that the most important ingredient to keep your fire burning is nothing but an unbroken and blended relationship with the Holy Spirit.
 
 So, if you are struggling with that in your private life, why don&#8217;t you take time out and patiently listen to this concluding part of my frank conversation with her? You&#8217;ll be glad you did. It will certainly transform your life inside out and renew you to be like the New Creation Man.
 
@@ -70,7 +61,5 @@ Every fire starts with a spark, but how do you turn the spark into an unquenchab
 My friend, there is a window opened to you via **the Lampstand Podcast.** **God bless you**.
 
 **Shalom!**
-
-
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

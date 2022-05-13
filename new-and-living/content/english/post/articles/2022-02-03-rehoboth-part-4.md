@@ -1,6 +1,6 @@
 ---
 title: “…REHOBOTH…” (Part 4)
-author: GBENGA AKINDELE
+author: Oduanyo Rotimi
 type: "regular"
 date: 2022-02-02T23:31:32+00:00
 #url /articles/rehoboth-part-4/
@@ -13,26 +13,12 @@ categories:
   - Articles
   - Featured
 tags:
-  - Abraham
-  - battle
-  - Day of His Power
-  - drought
-  - Esek
-  - fraught
-  - fruitfulness
-  - Gerar
-  - Guideposts
-  - Isaac
-  - nile
   - Reassurance
   - Rehoboth
   - Repentance
   - Resistance
   - restriction
-  - retour
-  - river
-  - Sitnar
-  - sow
+
 
 ---
 <h1 id="rehoboth" style="text-align: center;">

@@ -15,7 +15,6 @@ tags:
   - trials
   - test
   - relentless
-type: "regular"
 ---
 <h1 id="rehoboth" style="text-align: center;">
   <strong>&#8220;&#8230;EXPERIENCING GOD&#8230;&#8221;</strong>

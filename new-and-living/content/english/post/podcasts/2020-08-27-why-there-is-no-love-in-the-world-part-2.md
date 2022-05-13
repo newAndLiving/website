@@ -36,7 +36,7 @@ axil_post_layout:
 categories:
   - Podcasts
 tags:
-  - Love among belivers
+  - Love
 
 ---
 In a frank conversation with a Pastor friend, we closely looked at the most important Christian virtue for service and fellowship with one another.
