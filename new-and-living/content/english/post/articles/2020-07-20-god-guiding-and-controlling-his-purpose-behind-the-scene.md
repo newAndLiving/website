@@ -4,35 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-20T14:11:22+00:00
 #url /articles/god-guiding-and-controlling-his-purpose-behind-the-scene/
-image: images/wp-content/uploads/2020/07/God-Guiding.jpg
-axil_layout:
-  - default
-axil_sidebar:
-  - default
-axil_top_padding:
-  - default
-axil_bottom_padding:
-  - default
-axil_page_menu:
-  - default
-axil_top_bar:
-  - default
-axil_header_area:
-  - default
-axil_header:
-  - default
-axil_footer_top:
-  - default
-axil_footer_area:
-  - default
-axil_footer:
-  - default
-axil_banner:
-  - default
-axil_breadcrumb:
-  - default
-axil_post_layout:
-  - default
+images: 
+  - "images/post/God-Guiding-500x450.jpg"
 categories:
   - Articles
 tags:
