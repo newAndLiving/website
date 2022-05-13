@@ -36,20 +36,10 @@ axil_sidebar:
 categories:
   - Podcasts
 tags:
-  - crime
-  - Estimation
-  - family values
-  - gang culture
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - Time to talk
-  - youth episode
+  - youth
 
 ---
 &nbsp;
@@ -63,8 +53,6 @@ A young woman named Carleen was raised in a Christian home with strong, godly, a
 She longed for the passion of dates, parties and clubbing every weekend. And within a short while, she went astray from the right path; she started smoking and drinking; she went into several jetpack relationships that almost destroyed her life. The godly teaching of living in fear of God and walking in its truth soon vanished from her mind.
 
 Suddenly, one Sunday morning, she decided to attend the church service. As soon as she got in and sat quietly at the back, she picked a copy of the Bible and by divine working, she opened right into **Psalm 119:9-11**. It reads, ‘**_How can a young man (woman) make her way perfect?’._**
-
-
 
 Join Gbenga and Princess as they discuss how a young woman can make her way perfect in this fallen world.
 

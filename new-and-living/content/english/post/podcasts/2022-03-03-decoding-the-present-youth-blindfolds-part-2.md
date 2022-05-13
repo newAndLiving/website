@@ -36,30 +36,10 @@ axil_footer_area:
 categories:
   - Podcasts
 tags:
-  - blindfolds
-  - Carleen
-  - crime
-  - decoding
-  - Estimation
-  - euphoria
-  - family values
-  - gang culture
-  - god of this world
-  - heritage
-  - inheritance
-  - Lampstand
-  - little children
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - pure
-  - rain check
-  - relationship
-  - Time to talk
-  - Young woman make her way perfect
-  - youth episode
+  - youth
 
 ---
 &nbsp;
@@ -77,8 +57,6 @@ A blindfold deprives a person of sight by covering their source of vision. I cou
 Hey, young man/woman, are you currently blindfolded by your environment, euphoria, desire for self-esteem, the quest for self-independence and social media cravings? Then, this edition of the Lampstand Podcast is ideal for you.
 
 So, join Sister Aramide and me to glean lessons from her life experience, inspired wisdom and godly counsel for your destiny.
-
-
 
 The Lampstand Podcast. (2022).
 

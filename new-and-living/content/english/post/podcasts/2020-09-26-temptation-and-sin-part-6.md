@@ -36,7 +36,7 @@ axil_post_layout:
 categories:
   - Podcasts
 tags:
-  - youth episode
+  - youth
 
 ---
 In this Part 6 of our series on Temptation and Sin, we discussed on how do we tempt God?

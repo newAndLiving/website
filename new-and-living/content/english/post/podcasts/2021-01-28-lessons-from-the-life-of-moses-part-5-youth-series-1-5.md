@@ -36,17 +36,10 @@ axil_header_area:
 categories:
   - Podcasts
 tags:
-  - Estimation
-  - family values
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - youth episode
+  - youth
 
 ---
 Do you know that Goshen was God&#8217;s physical representation of safety and security for those who have faith in Him?

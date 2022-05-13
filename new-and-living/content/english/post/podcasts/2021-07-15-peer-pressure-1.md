@@ -36,33 +36,10 @@ axil_footer:
 categories:
   - Podcasts
 tags:
-  - birth right
-  - bitterness
-  - Creation
-  - "Esau's"
-  - Estimation
-  - Eternity
-  - Evolution
-  - family values
-  - first-born
-  - godlessness
-  - heritage
-  - influence by others
-  - inheritance
-  - Lampstand
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Mystery of Godliness
-  - peer pressure
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - scriptures
-  - sorrow
-  - the anointed one
-  - treasures of wisdom
-  - youth episode
+  - youth
 
 ---
 Hi Friends,

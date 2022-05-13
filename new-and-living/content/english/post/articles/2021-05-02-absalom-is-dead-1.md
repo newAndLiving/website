@@ -43,29 +43,11 @@ categories:
   - Articles
   - Featured
 tags:
-  - accuser
-  - blood of the Lamb
-  - blood provision
-  - Chance
-  - contaminates
-  - cup conundrum
-  - decision
-  - deeds
-  - Discipline
-  - efficacy of the blood
-  - Eternity
-  - evacuation
-  - inherit
+  - fallen nature
   - Life
-  - manifestation
-  - manufacturing
-  - pamper
-  - retail
-  - Seeking God
-  - Time
-  - vents
-  - Warehouse
-  - works
+  - Mr. Flesh
+  - old man
+  - Sinful nature
 
 ---
 <h1 style="text-align: center;">

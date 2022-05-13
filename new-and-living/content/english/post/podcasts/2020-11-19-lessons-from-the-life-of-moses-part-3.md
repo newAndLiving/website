@@ -36,13 +36,9 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - family values
-  - heritage
   - Lockdown
-  - Moses
-  - Moses in Egypt
-  - Prime time
-  - youth episode
+  - Moses 
+  - youth
 
 ---
 Here, in part 3 of this Lockdown Episode on the Life of Moses in a difficult time in Egypt, we discovered the immense benefits of modelling Christ into the life of the child and the Young Person in their prime time.

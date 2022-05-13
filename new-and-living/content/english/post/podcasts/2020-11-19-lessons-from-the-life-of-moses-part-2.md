@@ -36,7 +36,7 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - youth episode
+  - youth
 
 ---
 In this Part 2, we closely looked at how critical is the lesson of having clear identity both for life and godliness. 

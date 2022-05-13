@@ -43,28 +43,11 @@ categories:
   - Articles
   - Featured
 tags:
-  - accuser
-  - blood of the Lamb
-  - blood provision
-  - Chance
-  - contaminates
-  - decision
-  - deeds
-  - Discipline
-  - efficacy of the blood
-  - Eternity
-  - evacuation
-  - inherit
+  - fallen nature
   - Life
-  - manifestation
-  - manufacturing
-  - pamper
-  - retail
-  - Seeking God
-  - Time
-  - vents
-  - Warehouse
-  - works
+  - Mr. Flesh
+  - old man
+  - Sinful nature
 
 ---
 <h2 style="text-align: center;">
@@ -75,7 +58,7 @@ Since anything that comes with the sinful nature cannot please God, it means tha
 
 The flesh cannot be suppressed and pampered. Even the legalism cannot deal with Mr. Flesh. So, for God to be warning man of the consequence of hell, and He has no way of escape for the man, then it would be vague to point it to man. For if there is no way out of the danger of indulging in the activities of the sinful nature, then our Gospel is weak and vain. But thanks be to God who gives us the victory through the redemption in the Blood of Jesus!
 
-**1.1 FIRST PROVISION- THE BLOOD PROVISION** 
+**1.1 FIRST PROVISION- THE BLOOD PROVISION**
 
 Key Texts: (Lev. 17:1-8; 17:11; Heb. 9:10-12 NIV**).**
 
@@ -93,10 +76,10 @@ Consequently, the solution, is a new heart (Ezek. 36:26 NKJV). For example, do y
 
 **_<u>DISCUSSION POINT</u>_**
 
-  * From the key texts above, discuss the Old Testament priesthood activities of animal sacrifice for atonement and its implication to you and many in the Church of God today.
-  * From the above, do you think that GOD was being arbitrary when He demanded for blood sacrifice from sinners as atonement for their sins?
-  * How many times or for how long do you think a sinner will have to bring to the priest animal (blood) sacrifice as atonement for his sins?
-  * What do you think would have been the implication of this if GOD did not send JESUS to pour out His soul once and for all to cleanse us from our sins?
+* From the key texts above, discuss the Old Testament priesthood activities of animal sacrifice for atonement and its implication to you and many in the Church of God today.
+* From the above, do you think that GOD was being arbitrary when He demanded for blood sacrifice from sinners as atonement for their sins?
+* How many times or for how long do you think a sinner will have to bring to the priest animal (blood) sacrifice as atonement for his sins?
+* What do you think would have been the implication of this if GOD did not send JESUS to pour out His soul once and for all to cleanse us from our sins?
 
 **1.2 Further Gleaning**:
 
@@ -104,10 +87,10 @@ Consequently, the solution, is a new heart (Ezek. 36:26 NKJV). For example, do y
 
 b. See also **1 John 1:9** “_If we confess our sins, he is faithful and just and will forgive us our **<u>sins</u>** and purify us from all unrighteousness_.
 
-  * Compare and contrast the two passages above.
-  * To whom was John the Baptist referring to? And was it a misprint of the use of &#8216;**sin**’ (singular) and not ‘**sins**’ (plural)?
-  * If you agree with whom John the Baptist was referring to in v29, do you now believe that God has made available provision for your deliverance from sins before the foundation of the earth? (Rev.13:8; 5:9)
-  * Why do you think many believers today are still following the old traditional rites of animal sacrifices as a means of atonement? Can this please GOD?
+* Compare and contrast the two passages above.
+* To whom was John the Baptist referring to? And was it a misprint of the use of &#8216;**sin**’ (singular) and not ‘**sins**’ (plural)?
+* If you agree with whom John the Baptist was referring to in v29, do you now believe that God has made available provision for your deliverance from sins before the foundation of the earth? (Rev.13:8; 5:9)
+* Why do you think many believers today are still following the old traditional rites of animal sacrifices as a means of atonement? Can this please GOD?
 
 It is important for you to know that, as powerful as the blood of JESUS is to remove all sins, it can **<u>NOT</u>** deal with Mr. Flesh. Not that it is weak, but that it was not provided to deal with **sin, but its products**. For God has made alternative provision for dealing with the sinful nature. This we shall study in the next lesson.
 
@@ -132,7 +115,7 @@ People are searching for a quick fix to their problems. There is no quick fix in
     <td>
       <em> </em>
     </td>
-    
+
     <td>
       <em>Oh! precious is the flow<br /> That makes me white as snow;<br /> No other fount I know, nothing but the blood of Jesus.</em>
     </td>
@@ -143,19 +126,19 @@ People are searching for a quick fix to their problems. There is no quick fix in
 
 **<u>1.3 The Efficacies of the Blood of Jesus</u>**
 
-  * The blood is offered primarily to appease GOD &#8211; Lev. 17:1-6, Heb. 9:11-12 (KJV); to remove the effects of sin that we obtain forgiveness.
-  * The blood is so effective in cleansing us from our sins &#8211; 1John 1:7, 9 (KJV);
+* The blood is offered primarily to appease GOD &#8211; Lev. 17:1-6, Heb. 9:11-12 (KJV); to remove the effects of sin that we obtain forgiveness.
+* The blood is so effective in cleansing us from our sins &#8211; 1John 1:7, 9 (KJV);
 
-  * It also gives us access to GOD; it purifies our consciences &#8211; Heb. 10:22 (KJV);
-  * The blood of Jesus restores us to God upon true repentance from our sins. (Heb.10:9)
-  * We have fellowship with GOD by the Blood of JESUS &#8211; 1John 1:7 (NKJV); (We now experience a progressive and continuous cleansing.
-  * It speaks better things than the blood of Abel &#8211; Heb. 12:24 (NKJV);
-  * It acts as an inter-phase between us and GOD so that we can have communion with Him. (Exo. 29:44)
-  * By the blood of the Lamb, we overcame the devil &#8211; Rev 12:11 (KJV);
-  * The Blood of Jesus confirms that our sins are forgiven. Eph. 1:7 (GNB)
-  * It took away from us the guilt of sins (Rom. 8:1-4).
-  * The blood of Jesus now sustains and suspends the judgment of God until our sanctification is complete. Even our holiness (sanctification) does not downplay the efficacy of the blood of Jesus.
-  * Through the blood of Jesus, we now have a new and living way to God. (Heb. 10:20).
-  * According to Col. 2:14, the blood of Jesus blotted out and still blots out all the unfavourable records of our wrongdoings, and renders the devil charges filed against us null and void.
-  * The Blood of Jesus is also for our deliverance, healing and protection.
-  * Discuss further the efficacy of the blood as provision for our deliverance from sins using these texts &#8211; ( **26:27-28; Acts 20:28; Col. 1:20; Ephes. 1:7; Heb. 9:14; 9:22; 10:19; 13:12; 1Jhn. 1:7; Lk. 22:20; Rev. 1:5; 12:11**).
+* It also gives us access to GOD; it purifies our consciences &#8211; Heb. 10:22 (KJV);
+* The blood of Jesus restores us to God upon true repentance from our sins. (Heb.10:9)
+* We have fellowship with GOD by the Blood of JESUS &#8211; 1John 1:7 (NKJV); (We now experience a progressive and continuous cleansing.
+* It speaks better things than the blood of Abel &#8211; Heb. 12:24 (NKJV);
+* It acts as an inter-phase between us and GOD so that we can have communion with Him. (Exo. 29:44)
+* By the blood of the Lamb, we overcame the devil &#8211; Rev 12:11 (KJV);
+* The Blood of Jesus confirms that our sins are forgiven. Eph. 1:7 (GNB)
+* It took away from us the guilt of sins (Rom. 8:1-4).
+* The blood of Jesus now sustains and suspends the judgment of God until our sanctification is complete. Even our holiness (sanctification) does not downplay the efficacy of the blood of Jesus.
+* Through the blood of Jesus, we now have a new and living way to God. (Heb. 10:20).
+* According to Col. 2:14, the blood of Jesus blotted out and still blots out all the unfavourable records of our wrongdoings, and renders the devil charges filed against us null and void.
+* The Blood of Jesus is also for our deliverance, healing and protection.
+* Discuss further the efficacy of the blood as provision for our deliverance from sins using these texts &#8211; ( **26:27-28; Acts 20:28; Col. 1:20; Ephes. 1:7; Heb. 9:14; 9:22; 10:19; 13:12; 1Jhn. 1:7; Lk. 22:20; Rev. 1:5; 12:11**).

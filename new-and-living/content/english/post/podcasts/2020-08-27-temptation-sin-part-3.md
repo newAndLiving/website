@@ -36,7 +36,8 @@ axil_post_layout:
 categories:
   - Podcasts
 tags:
-  - 'Temptation &amp; Sin'
+  - Temptation
+  - Sin
 
 ---
 Few things are universal to mankind. Two of them are Temptation and Sin. And these two are not your friend. Perhaps because they are common to all is the reason why we downplay them or wink at them. But what would be the consequence of such error?

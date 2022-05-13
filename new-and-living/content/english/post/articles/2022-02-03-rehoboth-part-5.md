@@ -1,6 +1,6 @@
 ---
 title: “…REHOBOTH…” (Part 5)
-author: GBENGA AKINDELE
+author: Oduanyo Rotimi
 type: "regular"
 date: 2022-02-02T23:50:42+00:00
 #url /articles/rehoboth-part-5/
@@ -13,30 +13,11 @@ categories:
   - Articles
   - Featured
 tags:
-  - Abraham
-  - battle
-  - beersheba
-  - Day of His Power
-  - drought
-  - Esek
-  - fraught
-  - fruitfulness
-  - Gerar
-  - Guideposts
-  - Isaac
-  - nile
   - Reassurance
   - Rehoboth
   - Repentance
   - Resistance
-  - restoration
   - restriction
-  - retour
-  - river
-  - roomy space
-  - Sitnar
-  - sow
-
 ---
 <h1 id="rehoboth" style="text-align: center;">
   <strong>&#8220;&#8230;Rehoboth&#8230;&#8221;</strong>
@@ -58,7 +39,7 @@ The correlation between Abraham&#8217;s and Isaac&#8217;s sojourn holds for us a
 
 <span data-contrast="auto">Have you passed through a challenging time? How long? Years, Decades? We would not know. For the first time, after a series of struggles and displacement, He got to a land of &#8220;No opposition.&#8221; I perceive the more wells Isaac dug and were filled, the farther away he moved from the Philistines even while in their territory. Perhaps he was progressing farther and farther to a place beyond their reasonable or coverable reach or places where they would have tagged wasteland. If true. The farther away from them Isaac journeyed, the closer he came to the land of abundance. Little wonder, on reaching Rehoboth, a land devoid of opposition, He progressed to Beersheba since He was out of reach of these cruel Philistines. Friend, who is your cruel Philistines? No matter who they are, count it all joy! James 1:2</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span>
 
-<span data-contrast="auto">Rebehoth, to Isaac, was a tree of life. *</span>_<span data-contrast="auto">&#8220;Because he said, &#8216;For now the Lord has made room for us, and we shall be **</span>_**_<span data-contrast="auto">fruitful** </span>_**_<span data-contrast="auto">in the land.'&#8221;* </span>_<span data-contrast="auto">Although he had once *</span>_<span data-contrast="auto">&#8220;reaped in the same year a hundred folds,&#8221;*</span>_ <span data-contrast="auto">he knew there was more to God&#8217;s promise. And the realization of Rehoboth – the roomy space, devoid of quarrelling – was an assurance that God was at work. It was fruitfulness as a reward for destitution. It was blessings over scarcity. It was a life of peace of dispute. It is a place of freedom of expansion as the need arose. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span>
+<span data-contrast="auto">Rebehoth, to Isaac, was a tree of life. *</span>_<span data-contrast="auto">&#8220;Because he said, &#8216;For now the Lord has made room for us, and we shall be **</span>****<span data-contrast="auto">fruitful** </span>****<span data-contrast="auto">in the land.'&#8221;* </span>_<span data-contrast="auto">Although he had once *</span>_<span data-contrast="auto">&#8220;reaped in the same year a hundred folds,&#8221;*</span>_ <span data-contrast="auto">he knew there was more to God&#8217;s promise. And the realization of Rehoboth – the roomy space, devoid of quarrelling – was an assurance that God was at work. It was fruitfulness as a reward for destitution. It was blessings over scarcity. It was a life of peace of dispute. It is a place of freedom of expansion as the need arose. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span>
 
 <span data-contrast="auto">Rehoboth was a place where those who envied him before and displaced him now beg to live at his mercy. It is a place where naturally his fame went abroad, even faster than when he was a next-door neighbour to Abimelech. It is a place where those who monitored him to his woe will be surprised at the wonder God attained through him. Those who anticipated evil will jaw-drop to see what God can do. It is a place where kings saw Isaac&#8217;s light shining in the darkness, with plenty in famine and safety in trouble. And they arise and come *</span>_<span data-contrast="auto">&#8220;to the brightness of&#8221;* </span>_<span data-contrast="auto">his *</span>_<span data-contrast="auto">&#8220;rising.&#8221;*</span>_<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span>
 
@@ -70,4 +51,3 @@ Shalom.
 
 Every Blessing in Christ.
 
-### **Odun Rotimi {OD}.**

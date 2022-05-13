@@ -36,30 +36,10 @@ axil_footer_area:
 categories:
   - Podcasts
 tags:
-  - blindfolds
-  - Carleen
-  - crime
-  - decoding
-  - Estimation
-  - euphoria
-  - family values
-  - gang culture
-  - god of this world
-  - heritage
-  - inheritance
-  - Lampstand
-  - little children
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - pure
-  - rain check
-  - relationship
-  - Time to talk
-  - Young woman make her way perfect
-  - youth episode
+  - youth
 
 ---
 &nbsp;
@@ -79,8 +59,6 @@ Have you a desire for self-independence? Yearning to be alone and in control? Ar
 Do you assume you have it under control? That may be a deception from the evil one.
 
 Please join us as we carefully identify godly ways by which these blindfolds can be removed from their faces.
-
-
 
 The Lampstand Podcast. (2022).
 

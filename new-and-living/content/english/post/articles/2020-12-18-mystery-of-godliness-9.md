@@ -39,27 +39,11 @@ categories:
   - Articles
   - Featured
 tags:
-  - accuser
-  - blood of the Lamb
-  - Chance
-  - contaminates
-  - decision
-  - deeds
-  - Discipline
-  - Eternity
-  - evacuation
-  - inherit
+  - fallen nature
   - Life
-  - manifestation
-  - manufacturing
-  - pamper
-  - retail
-  - Seeking God
-  - Time
-  - vents
-  - Warehouse
-  - works
-
+  - Mr. Flesh
+  - old man
+  - Sinful nature
 ---
 <p style="text-align: center;">
   <strong>KEY TEXT: Rev. 12:10-11 (NKJV).</strong>

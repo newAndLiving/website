@@ -36,30 +36,10 @@ axil_footer_area:
 categories:
   - Podcasts
 tags:
-  - blindfolds
-  - Carleen
-  - crime
-  - decoding
-  - Estimation
-  - family values
-  - gang culture
-  - god of this world
-  - heritage
-  - inheritance
-  - Lampstand
-  - little children
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - pure
-  - rain check
-  - relationship
-  - Time to talk
-  - who am I to you?
-  - Young woman make her way perfect
-  - youth episode
+  - youth
 
 ---
 <h2 style="text-align: center;">
@@ -75,8 +55,6 @@ In this episode, Jesus asked His disciples (not the crowd) who do people say I a
 Has your perspective of Christ as seen in your pastor, leader, parents and teachers been an audio-visual aid to your understanding of who Christ is?
 
 **To get answers to these questions, join Bro. Dele and I for more understanding.**
-
-
 
 The Lampstand Podcast. (March 2022).
 

@@ -45,27 +45,6 @@ categories:
 tags:
   - accuser
   - blood of the Lamb
-  - blood provision
-  - Chance
-  - contaminates
-  - cup conundrum
-  - decision
-  - deeds
-  - Discipline
-  - efficacy of the blood
-  - Eternity
-  - evacuation
-  - inherit
-  - Life
-  - manifestation
-  - manufacturing
-  - pamper
-  - retail
-  - Seeking God
-  - Time
-  - vents
-  - Warehouse
-  - works
 
 ---
 **<span style="color: #ff6600;">KNOWING THIS…</span> (Romans 6:6)**

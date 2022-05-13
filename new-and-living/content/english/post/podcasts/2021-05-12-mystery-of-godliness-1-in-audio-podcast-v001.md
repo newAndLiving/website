@@ -36,27 +36,10 @@ axil_layout:
 categories:
   - Podcasts
 tags:
-  - birth right
-  - bitterness
-  - "Esau's"
-  - Estimation
-  - Eternity
-  - family values
-  - first-born
-  - godlessness
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Mystery of Godliness
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - scriptures
-  - sorrow
-  - youth episode
-
+  - youth
 ---
 God in His love gave us The Gospel, as His own Divine instrument for changing men.
 

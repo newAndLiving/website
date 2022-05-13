@@ -36,24 +36,10 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - birth right
-  - bitterness
-  - "Esau's"
-  - Estimation
-  - Eternity
-  - family values
-  - first-born
-  - godlessness
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - sorrow
-  - youth episode
+  - youth
 
 ---
 How you can endure the present profaned and corrupt world by living above sin is the focus of this conversation with Bro. Femi?

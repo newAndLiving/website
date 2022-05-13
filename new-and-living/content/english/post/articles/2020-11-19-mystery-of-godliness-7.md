@@ -39,21 +39,11 @@ categories:
   - Articles
   - Featured
 tags:
-  - Chance
-  - dead works
-  - Discipline
-  - Eternity
   - fallen nature
   - Life
-  - Lost Nature
   - Mr. Flesh
   - old man
-  - quite plain
-  - Seeking God
-  - shows itself
   - Sinful nature
-  - Time
-  - worse than covid-19 virus
 
 ---
 ####   1 .1   THE SINFUL NATURE

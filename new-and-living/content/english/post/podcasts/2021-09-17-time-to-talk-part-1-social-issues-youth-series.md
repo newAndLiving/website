@@ -36,21 +36,10 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - crime
-  - Estimation
-  - family values
-  - gang culture
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - Time to talk
-  - youth episode
-
+  - youth
 ---
 **TIME TO TALK… SOCIAL ISSUES**
 
@@ -63,7 +52,5 @@ And how would you rise above these temptations and pressures daily?
 To answer all these questions, click on **the Lampstand Podcast** and listen to Samuel and Judah as they shared their experiences and tips for victorious living in a fallen world.
 
 **Shalom!**
-
-
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

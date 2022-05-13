@@ -64,7 +64,7 @@ name = "homepage"
 
 [[main]]
   name = "Articles"
-  url = "post"
+  url = "post/articles"
   weight = 2
 
 [[main]]
@@ -74,7 +74,7 @@ name = "homepage"
 
 [[main]]
   name = "Video"
-  url = "post/video"
+  url = "post/videos"
   weight = 4
 
 [[main]]

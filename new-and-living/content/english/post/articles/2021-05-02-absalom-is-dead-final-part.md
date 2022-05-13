@@ -43,41 +43,11 @@ categories:
   - Articles
   - Featured
 tags:
-  - Absalom
-  - accuser
-  - Arise
-  - battle of Ephraim Wood
-  - blood of the Lamb
-  - blood provision
-  - Chance
-  - contaminates
-  - cup conundrum
-  - David
-  - decision
-  - deeds
-  - Discipline
-  - DNA
-  - efficacy of the blood
-  - Eternity
-  - evacuation
-  - forest
-  - Go forth
-  - "God's judgment"
-  - hanging on a tree
-  - inherit
-  - it shows itself
-  - Joab
+  - fallen nature
   - Life
-  - manifestation
-  - manufacturing
-  - pamper
-  - retail
-  - Seeking God
-  - Speak the truth
-  - Time
-  - vents
-  - Warehouse
-  - works
+  - Mr. Flesh
+  - old man
+  - Sinful nature
 
 ---
 <h1 style="text-align: center;">

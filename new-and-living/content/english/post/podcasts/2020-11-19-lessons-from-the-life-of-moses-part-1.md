@@ -36,7 +36,7 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - youth episode
+  - youth
 
 ---
 In this episode which will come in parts, is the frank conversation on lessons from the life of Moses who refused to be known ‘_as the son of Pharaoh’s daughter’_.  But chose to be mistreated along with the people of God.

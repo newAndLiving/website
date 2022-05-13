@@ -36,30 +36,10 @@ axil_footer_area:
 categories:
   - Podcasts
 tags:
-  - blindfolds
-  - Carleen
-  - crime
-  - decoding
-  - Estimation
-  - family values
-  - gang culture
-  - god of this world
-  - heritage
-  - inheritance
-  - Lampstand
-  - little children
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - pure
-  - rain check
-  - relationship
-  - Time to talk
-  - Young woman make her way perfect
-  - youth episode
-
+  - youth
 ---
 &nbsp;
 
@@ -76,8 +56,6 @@ Friends, this is a reality check of what the enemy subtly do to blindfold you fr
 Today, almost everything in the Bible has become fun and frenzy games. The biblical teaching of youth has become a fairy tale; hence the gods of this world have blindfolded the majority of the young persons. What a fanfare!
 
 Please join Sister Aramide and me as we carefully decode the current youth blindfolds and proffer solutions to release them from the blindfolds.
-
-
 
 The Lampstand Podcast. (2022).
 

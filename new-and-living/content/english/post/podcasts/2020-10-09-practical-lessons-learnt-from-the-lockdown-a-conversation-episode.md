@@ -36,7 +36,7 @@ axil_bottom_padding:
 categories:
   - Podcasts
 tags:
-  - youth episode
+  - youth
 
 ---
 Has the recent lockdown made you feel somehow as if you&#8217;re over the moon, or deep in the dumps? Join Tomi and Tireni in this live conversation on how the Lockdown has affected them &#8211;  positively and negatively. They talked about friendships, closeness with God, Peace of God, skills learnt, their difficulties and many more&#8230;Don&#8217;t miss all these in this episode of The Lampstand. Shalom!

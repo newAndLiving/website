@@ -1,6 +1,6 @@
 ---
 title: “…REHOBOTH…” (Part 3)
-author: GBENGA AKINDELE
+author: Oduanyo Rotimi
 type: "regular"
 date: 2022-01-23T03:11:38+00:00
 #url /articles/rehoboth-part-3/
@@ -17,19 +17,6 @@ tags:
   - battle
   - Day of His Power
   - drought
-  - fraught
-  - fruitfulness
-  - Gerar
-  - Guideposts
-  - Isaac
-  - nile
-  - Reassurance
-  - Rehoboth
-  - Repentance
-  - Resistance
-  - restriction
-  - river
-  - sow
 
 ---
 <h1 id="rehoboth" style="text-align: center;">
@@ -77,5 +64,3 @@ As we would, nevertheless, see, the state of the land at any point, through the 
 Shalom.
 
 Every Blessing in Christ.
-
-### **Odun Rotimi {OD}.**

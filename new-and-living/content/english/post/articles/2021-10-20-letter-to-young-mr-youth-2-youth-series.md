@@ -1,6 +1,6 @@
 ---
 title: Letter to Young Mr Youth 2 (Youth Series).
-author: GBENGA AKINDELE
+author: Odunayo Rotimi
 type: "regular"
 date: 2021-10-20T20:19:04+00:00
 #url /articles/letter-to-young-mr-youth-2-youth-series/
@@ -33,5 +33,3 @@ Who is the glory and the lifter of your head when the chips are down? When the v
 Ah! In the valley water is scarce! But there are many dry bones. Who will refresh your soul?
 
 Shalom!
-
-OD

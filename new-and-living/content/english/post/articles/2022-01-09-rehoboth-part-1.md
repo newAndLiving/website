@@ -16,13 +16,6 @@ tags:
   - Abraham
   - battle
   - Day of His Power
-  - fruitfulness
-  - Guideposts
-  - Reassurance
-  - Rehoboth
-  - Repentance
-  - sow
-
 ---
 <h1 id="rehoboth" style="text-align: center;">
   <strong>&#8220;&#8230;Rehoboth&#8230;&#8221;</strong>

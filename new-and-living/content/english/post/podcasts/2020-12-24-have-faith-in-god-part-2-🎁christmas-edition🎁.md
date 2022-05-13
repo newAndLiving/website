@@ -36,7 +36,7 @@ axil_post_layout:
 categories:
   - Podcasts
 tags:
-  - youth episode
+  - youth
 
 ---
 Can a man truly possess God? Has it ever occurred to you that God desire to be your portion? What does it take for you to have God as your inheritance?

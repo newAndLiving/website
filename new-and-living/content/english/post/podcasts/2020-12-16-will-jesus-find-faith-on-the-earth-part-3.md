@@ -36,7 +36,7 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - youth episode
+  - youth
 
 ---
 Recently, someone told me that a part-time Christian can not defeat a full-time Devil. Can this be true statement? Do you wonder what this is all about?

@@ -36,7 +36,7 @@ axil_top_padding:
 categories:
   - Podcasts
 tags:
-  - youth episode
+  - youth
 
 ---
 A live stream recording on Temptation and Sin.

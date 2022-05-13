@@ -36,26 +36,10 @@ axil_sidebar:
 categories:
   - Podcasts
 tags:
-  - Carleen
-  - crime
-  - Estimation
-  - family values
-  - gang culture
-  - heritage
-  - inheritance
-  - Lampstand
-  - little children
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - pure
-  - rain check
-  - relationship
-  - Time to talk
-  - Young woman make her way perfect
-  - youth episode
+  - youth
 
 ---
 &nbsp;
@@ -73,8 +57,6 @@ What is your relationship like with your children, fathers, mothers, grandparent
 In this episode of the Lampstand Podcast, join Gbenga and Bro. Tony, to know more about the mystery of Jesus and the little children.
 
 GBENGA
-
-
 
 The Lampstand Podcast. (2022).
 

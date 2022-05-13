@@ -36,20 +36,10 @@ axil_sidebar:
 categories:
   - Podcasts
 tags:
-  - crime
-  - Estimation
-  - family values
-  - gang culture
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - Time to talk
-  - youth episode
+  - youth
 
 ---
 **TIME TO TALK… SOCIAL ISSUES**

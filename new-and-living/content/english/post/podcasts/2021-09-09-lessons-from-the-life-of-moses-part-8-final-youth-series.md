@@ -36,17 +36,10 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - Estimation
-  - family values
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - youth episode
+  - youth
 
 ---
 The issue of Choice is common to all mankind. Choice of fashion, music, crime, career, university, friends etc. But at what point and for what reason do you make a choice? Do you still sit on the fence of indecision? What pleasure of sin are you meddling with? Pornography? Sexual immorality, drug, alcohol?

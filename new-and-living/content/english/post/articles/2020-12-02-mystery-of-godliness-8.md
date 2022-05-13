@@ -39,25 +39,11 @@ categories:
   - Articles
   - Featured
 tags:
-  - Chance
-  - contaminates
-  - decision
-  - deeds
-  - Discipline
-  - Eternity
-  - evacuation
-  - inherit
+  - fallen nature
   - Life
-  - manifestation
-  - manufacturing
-  - pamper
-  - retail
-  - Seeking God
-  - Time
-  - vents
-  - Warehouse
-  - works
-
+  - Mr. Flesh
+  - old man
+  - Sinful nature
 ---
 <div style="text-align: center;">
   <h4>

@@ -12,18 +12,6 @@ tags:
   - but now
   - ditches
   - dry bones
-  - enlarge your tent
-  - famished soul
-  - fruitfulness
-  - hideouts
-  - hireling
-  - locks
-  - navigate
-  - paths
-  - Rehoboth
-  - shadow of death
-  - valleys
-  - vigour
 
 ---
 <h2 style="text-align: center;">
@@ -94,10 +82,10 @@ Finally, it is instructive to remind you that, though God has made the room for 
 
 **<u>What to do</u>**
 
-  * Arise and take up responsibility for this commission this Christmas season.
-  * Come to God in sincere repentance from your sins and have faith towards Him.
-  * Do not fear, make a Holy Covenant with God as a living sacrifice;
-  * Enlarge the place of your tent, clear lots of ground for your tents!  
+* Arise and take up responsibility for this commission this Christmas season.
+* Come to God in sincere repentance from your sins and have faith towards Him.
+* Do not fear, make a Holy Covenant with God as a living sacrifice;
+* Enlarge the place of your tent, clear lots of ground for your tents!  
     Make your tents large. Spread out! Think big!  
     Use plenty of rope,  
     drive the tent pegs deep.  
@@ -122,7 +110,7 @@ Repent, and return to the Lord if you are currently on your way down to Egypt.
 
 God has now made large room for us.
 
-**_Merry Christmas and a Happy New Year_****!** 
+**_Merry Christmas and a Happy New Year_****!**
 
 **GBENGA AKINDELE.**
 

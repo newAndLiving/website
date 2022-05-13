@@ -45,31 +45,8 @@ categories:
 tags:
   - accuser
   - attainment
-  - blood of the Lamb
-  - blood provision
-  - Chance
-  - contaminates
-  - cup conundrum
-  - decision
-  - deeds
-  - Discipline
-  - dream
-  - efficacy of the blood
-  - Eternity
-  - evacuation
-  - inherit
   - Life
   - manifestation
-  - manufacturing
-  - minifies
-  - pamper
-  - peak
-  - retail
-  - Seeking God
-  - Time
-  - vents
-  - Warehouse
-  - works
 
 ---
 # 1       Dear Young Mr Youth

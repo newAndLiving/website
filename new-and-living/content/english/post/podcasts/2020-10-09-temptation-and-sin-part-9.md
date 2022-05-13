@@ -36,7 +36,7 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - youth episode
+  - youth
 
 ---
 In this episode, we closely looked at the three gateways by which men get tempted. I am sure it will surprise you!

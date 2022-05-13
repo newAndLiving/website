@@ -36,17 +36,10 @@ axil_footer_top:
 categories:
   - Podcasts
 tags:
-  - Estimation
-  - family values
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - rain check
-  - youth episode
+  - youth
 
 ---
 **CONVERSATION WITH PRINCESS**
@@ -64,7 +57,5 @@ Every fire starts with a spark, but how do you turn the spark into an unquenchab
 Friend, guess what? There is a window to your future that opens to you now that you are still young and the **Lampstand Podcast** is about to reveal to you how to put your perspective into a reality.
 
 **Shalom!**
-
-
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

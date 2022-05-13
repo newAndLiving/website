@@ -38,16 +38,9 @@ categories:
   - Featured
 tags:
   - Adamic nature
-  - aspects of sin
   - divine nature
-  - dual problems
-  - fallen man
   - fallen nature
-  - Godliness
-  - lawlessness
-  - miss the mark
   - Sin
-  - sins
 
 ---
 The fundamental issue of being born again was raised by Christ before Nicodemus in John 3. This was because of the kind of life Nicodemus carried, but he was not aware of it. The problem with mankind is the specie of life he carries about in this earthen vessel. Mankind is not aware of the fallen nature dwelling within him, because nothing happened to the body (the container). But as he continually lives, he discovers that there is warfare (an inner struggle) within as touching his decision, emotions and feelings.

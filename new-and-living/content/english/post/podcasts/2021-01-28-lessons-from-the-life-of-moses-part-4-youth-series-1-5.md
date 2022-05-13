@@ -36,16 +36,10 @@ axil_top_padding:
 categories:
   - Podcasts
 tags:
-  - Estimation
-  - family values
-  - heritage
-  - inheritance
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Prime time
-  - prince of Egypt
-  - youth episode
+  - youth
 
 ---
 Have you ever questioned how items you pick up from the stores are valued? What are the factors to consider when making an estimation on any item for sale or purchase?

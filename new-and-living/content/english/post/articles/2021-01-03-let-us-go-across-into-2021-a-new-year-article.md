@@ -37,38 +37,12 @@ axil_footer:
   - default
 categories:
   - Articles
-  - Featured
 tags:
-  - accuser
-  - beatitudes
-  - blood of the Lamb
-  - blood provision
-  - Chance
-  - contaminates
-  - Cross over
-  - decision
-  - deeds
-  - Discipleship
-  - Discipline
-  - efficacy of the blood
-  - Eternity
-  - evacuation
-  - expansion
-  - go over
-  - inherit
+  - fallen nature
   - Life
-  - manifestation
-  - manufacturing
-  - multitude
-  - pamper
-  - Passover Lamb
-  - retail
-  - Seeking God
-  - Time
-  - vents
-  - Warehouse
-  - works
-  - Year 2021
+  - Mr. Flesh
+  - old man
+  - Sinful nature
 
 ---
 <h1 style="text-align: center;">

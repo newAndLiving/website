@@ -43,29 +43,11 @@ categories:
   - Articles
   - Featured
 tags:
-  - accuser
-  - blood of the Lamb
-  - blood provision
-  - Chance
-  - contaminates
-  - cup conundrum
-  - decision
-  - deeds
-  - Discipline
-  - efficacy of the blood
-  - Eternity
-  - evacuation
-  - inherit
+  - fallen nature
   - Life
-  - manifestation
-  - manufacturing
-  - pamper
-  - retail
-  - Seeking God
-  - Time
-  - vents
-  - Warehouse
-  - works
+  - Mr. Flesh
+  - old man
+  - Sinful nature
 
 ---
 <u>Then Simon Peter, having a sword, drew it and struck the high priest’s servant, and cut off his right ear. The servant’s name was Malchus. So, JESUS said to Peter, “Put your sword into the sheath. Shall I not drink the cup which My Father has given Me?” (John 18:10-11 NKJV; Luke 12:50; Luke 22:36,38,42; Mark 10:38;14:36 NLT;)</u>

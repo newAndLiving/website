@@ -36,36 +36,10 @@ axil_footer_area:
 categories:
   - Podcasts
 tags:
-  - blindfolds
-  - Carleen
-  - clay
-  - crime
-  - crowd
-  - decoding
-  - disciples
-  - Estimation
-  - family values
-  - foundational knowledge
-  - gang culture
-  - god of this world
-  - heritage
-  - inheritance
-  - Lampstand
-  - little children
   - Lockdown
   - Moses
   - Moses in Egypt
-  - Potter
-  - Prime time
-  - prince of Egypt
-  - pure
-  - rain check
-  - relationship
-  - "staying on the potter's wheel"
-  - Time to talk
-  - who am I to you?
-  - Young woman make her way perfect
-  - youth episode
+  - youth
 
 ---
 <h2 style="text-align: center;">
@@ -83,8 +57,6 @@ But sin and satan have marred our lives, perforated the glory of many, and fract
 Therefore, staying on the Potter’s wheel is vital to shaping and moulding your life after God’s divine pattern predetermined before creation for you to be a channel of blessing. God does not wish to cast anyone away but to place such persons on the Potter’s wheel and repeatedly remake them.
 
 **So, join princess and me in this frank discussion to find out the necessity of staying on the Potter’s wheel.**
-
-
 
 The Lampstand Podcast. (April 2022).
 
