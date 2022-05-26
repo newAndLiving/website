@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-08-04T23:02:07+00:00
 #url /articles/nothing-but-leaves/
-image: images/wp-content/uploads/2020/07/Fig-tree.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Fig-tree.jpg"
 axil_layout:
   - default
 axil_sidebar:

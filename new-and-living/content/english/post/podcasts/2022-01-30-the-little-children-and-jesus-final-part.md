@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-01-30T19:09:55+00:00
 #url /podcasts/the-little-children-and-jesus-final-part/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_post_layout:
   - default
 axil_page_menu:

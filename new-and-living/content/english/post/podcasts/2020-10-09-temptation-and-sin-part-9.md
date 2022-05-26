@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2020-10-09T22:19:51+00:00
 #url /podcasts/temptation-and-sin-part-9/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_post_layout:
   - default
 axil_footer_area:

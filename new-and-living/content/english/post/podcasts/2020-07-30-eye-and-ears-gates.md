@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-30T18:55:19+00:00
 #url /podcasts/eye-and-ears-gates/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_layout:
   - default
 axil_sidebar:

@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-08-27T09:37:06+00:00
 #url /podcasts/what-should-be-a-young-person-response-in-difficult-times-part-2/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_post_layout:
   - default
 axil_layout:

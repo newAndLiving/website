@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-09-06T20:23:58+00:00
 #url /podcasts/how-to-keep-your-fire-burning-2-discussion-with-princess/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_footer:
   - default
 axil_breadcrumb:

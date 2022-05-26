@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-08-27T09:24:10+00:00
 #url /podcasts/temptation-sin-part-3/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_layout:
   - default
 axil_sidebar:

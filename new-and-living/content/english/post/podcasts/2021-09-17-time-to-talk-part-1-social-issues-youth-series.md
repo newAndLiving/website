@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-09-17T00:31:41+00:00
 #url /podcasts/time-to-talk-part-1-social-issues-youth-series/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_footer:
   - default
 axil_breadcrumb:

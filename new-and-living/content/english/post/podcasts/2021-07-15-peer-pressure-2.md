@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-07-15T21:57:06+00:00
 #url /podcasts/peer-pressure-2/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_layout:
   - default
 axil_sidebar:

@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2020-12-01T22:25:09+00:00
 #url /podcasts/will-jesus-find-faith-on-earth-part-2/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_header:
   - default
 axil_header_area:

@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-30T17:16:51+00:00
 #url /articles/jesus-the-son-and-the-fathers-companion/
-image: images/wp-content/uploads/2020/07/Jesus.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Jesus.jpg"
 axil_layout:
   - default
 axil_sidebar:

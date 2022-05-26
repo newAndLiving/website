@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-05-02T00:46:56+00:00
 #url /articles/absalom-is-dead-1/
-image: images/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-9.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-9.jpg"
 axil_footer:
   - default
 wpdiscuz_post_rating:

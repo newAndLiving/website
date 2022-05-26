@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-01-28T01:31:49+00:00
 #url /podcasts/lessons-from-the-life-of-moses-part-4-youth-series-1-5/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_page_menu:
   - default
 axil_post_layout:

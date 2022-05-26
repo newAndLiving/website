@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-01-01T23:18:04+00:00
 #url /articles/new-year-message-marching-on-into-the-year-2022/
-image: images/wp-content/uploads/2022/01/new_beginnings.jpeg
+images: 
+  - "images/post/wp-content/uploads/2022/01/new_beginnings.jpeg"
 categories:
   - Articles
   - Featured

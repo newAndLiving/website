@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-01-23T02:10:06+00:00
 #url /podcasts/how-can-a-young-woman-make-her-way-perfect-part-1/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_banner:
   - default
 axil_bottom_padding:

@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-03-25T00:14:43+00:00
 #url /podcasts/godless-esaus-of-today-part-1-youth-series/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_footer:
   - default
 axil_breadcrumb:

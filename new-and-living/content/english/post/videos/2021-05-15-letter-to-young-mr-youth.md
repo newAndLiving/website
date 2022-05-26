@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-05-15T15:16:09+00:00
 #url /videos/letter-to-young-mr-youth/
-image: images/wp-content/uploads/2021/05/Video.jpg
+images: 
+  - "images/post/wp-content/uploads/2021/05/Video.jpg"
 
 categories:
   - Videos

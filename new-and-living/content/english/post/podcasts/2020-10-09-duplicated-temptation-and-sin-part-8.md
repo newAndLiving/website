@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2020-10-09T22:10:42+00:00
 #url /podcasts/duplicated-temptation-and-sin-part-8/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_banner:
   - default
 axil_breadcrumb:

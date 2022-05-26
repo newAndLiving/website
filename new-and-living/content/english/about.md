@@ -1,6 +1,7 @@
 ---
 title: "Hi, this is the New and Living Way Blog"
-image: "images/author-full.jpg"
+images: 
+  - "images/author-full.jpg"
 email: "sojonatmail@gmail.com"
 # description
 description: "About New and Living Way Blog"

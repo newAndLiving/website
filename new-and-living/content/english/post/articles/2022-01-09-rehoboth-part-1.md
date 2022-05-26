@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-01-09T19:31:38+00:00
 #url /articles/rehoboth-part-1/
-image: images/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-4.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-4.jpg"
 wpdiscuz_post_rating:
   - 5
 wpdiscuz_post_rating_count:

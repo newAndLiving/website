@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-20T13:25:09+00:00
 #url /articles/the-mystery-of-the-gospel/
-image: images/wp-content/uploads/2020/07/THE-MYSTERY-OF-THE-GOSPEL.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/THE-MYSTERY-OF-THE-GOSPEL.jpg"
 axil_layout:
   - default
 axil_sidebar:

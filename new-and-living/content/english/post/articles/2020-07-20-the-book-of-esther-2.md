@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-20T15:16:23+00:00
 #url /articles/the-book-of-esther-2/
-image: images/wp-content/uploads/2020/07/God-Guiding.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/God-Guiding.jpg"
 axil_layout:
   - default
 axil_sidebar:

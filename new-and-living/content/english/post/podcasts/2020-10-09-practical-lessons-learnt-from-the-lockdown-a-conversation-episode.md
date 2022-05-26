@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2020-10-09T22:31:07+00:00
 #url /podcasts/practical-lessons-learnt-from-the-lockdown-a-conversation-episode/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_footer_top:
   - default
 axil_header:

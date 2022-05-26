@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-02-20T23:37:20+00:00
 #url /articles/mystery-of-godliness-11/
-image: images/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-40.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-40.jpg"
 axil_views:
   - 1
 axil_footer_top:

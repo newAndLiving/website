@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-07-27T16:43:59+00:00
 #url /articles/mystery-of-godliness-12/
-image: images/wp-content/uploads/2020/07/Jesus.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Jesus.jpg"
 axil_footer:
   - default
 wpdiscuz_post_rating:

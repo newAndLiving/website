@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-01-02T23:56:08+00:00
 #url /articles/let-us-go-across-into-2021-a-new-year-article/
-image: images/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-1-1.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-1-1.jpg"
 axil_views:
   - 1
 axil_footer_top:

@@ -4,7 +4,8 @@ author: Oduanyo Rotimi
 type: "regular"
 date: 2022-01-23T03:11:38+00:00
 #url /articles/rehoboth-part-3/
-image: images/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-27.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-27.jpg"
 wpdiscuz_post_rating:
   - 5
 wpdiscuz_post_rating_count:

@@ -4,7 +4,8 @@ author: Odunayo Rotimi
 type: "regular"
 date: 2021-10-20T20:19:04+00:00
 #url /articles/letter-to-young-mr-youth-2-youth-series/
-image: images/wp-content/uploads/2021/10/Valleys.jpeg
+images: 
+  - "images/post/wp-content/uploads/2021/10/Valleys.jpeg"
 categories:
   - Articles
   - Featured

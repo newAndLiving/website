@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-08-27T09:16:21+00:00
 #url /podcasts/is-there-still-believers-love-today-part1/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_layout:
   - default
 axil_sidebar:

@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2021-06-12T21:46:01+00:00
 #url /podcasts/the-transforming-power-of-the-new-creation-life-1b/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_top_padding:
   - default
 axil_page_menu:

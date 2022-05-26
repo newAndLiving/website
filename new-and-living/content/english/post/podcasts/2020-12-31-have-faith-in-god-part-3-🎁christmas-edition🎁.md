@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2020-12-30T23:06:26+00:00
 #url /podcasts/have-faith-in-god-part-3-🎁christmas-edition🎁/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_header:
   - default
 axil_bottom_padding:

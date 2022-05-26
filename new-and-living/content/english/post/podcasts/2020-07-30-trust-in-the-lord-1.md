@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-30T18:56:02+00:00
 #url /podcasts/trust-in-the-lord-1/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_layout:
   - default
 axil_sidebar:

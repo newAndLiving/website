@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-20T11:38:23+00:00
 #url /articles/welcome-note/
-image: images/wp-content/uploads/2020/07/Welcome-Note-1.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Welcome-Note-1.jpg"
 axil_layout:
   - default
 axil_sidebar:

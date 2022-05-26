@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2020-11-19T00:09:52+00:00
 #url /podcasts/lessons-from-the-life-of-moses-part-2/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_header:
   - default
 axil_header_area:

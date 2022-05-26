@@ -4,8 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-20T14:58:15+00:00
 #url /articles/leave-a-legacy/
-# images: 
-#   - "images/wp-content/uploads/2020/07/Leave-a-legacy.jpg"
+images: 
+  - "images/post/wp-content/uploads/2020/07/Leave-a-legacy.jpg"
 
 categories:
   - Articles

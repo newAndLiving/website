@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-03-03T00:35:33+00:00
 #url /podcasts/decoding-the-present-youth-blindfolds-part-2/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_bottom_padding:
   - default
 axil_banner:

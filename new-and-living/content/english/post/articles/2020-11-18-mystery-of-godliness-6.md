@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2020-11-18T03:16:36+00:00
 #url /articles/mystery-of-godliness-6/
-image: images/wp-content/uploads/2020/07/THE-MYSTERY-OF-THE-GOSPEL.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/THE-MYSTERY-OF-THE-GOSPEL.jpg"
 axil_layout:
   - default
 axil_sidebar:

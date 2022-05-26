@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-03-12T00:11:56+00:00
 #url /podcasts/who-is-the-christ-to-a-young-person-final-part/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_footer_area:
   - default
 axil_sidebar:

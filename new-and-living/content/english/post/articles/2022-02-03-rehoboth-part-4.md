@@ -4,7 +4,8 @@ author: Oduanyo Rotimi
 type: "regular"
 date: 2022-02-02T23:31:32+00:00
 #url /articles/rehoboth-part-4/
-image: images/wp-content/uploads/2022/02/businessman-holding-a-signboard-with-the-text-retour-au-travail-back-E55WPE.jpeg
+images: 
+  - "images/post/wp-content/uploads/2022/02/businessman-holding-a-signboard-with-the-text-retour-au-travail-back-E55WPE.jpeg"
 wpdiscuz_post_rating:
   - 5
 wpdiscuz_post_rating_count:

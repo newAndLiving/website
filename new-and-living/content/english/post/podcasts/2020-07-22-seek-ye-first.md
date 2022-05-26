@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-22T11:56:03+00:00
 #url /podcasts/seek-ye-first/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_layout:
   - default
 axil_sidebar:

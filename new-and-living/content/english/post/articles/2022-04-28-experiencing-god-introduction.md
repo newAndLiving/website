@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-04-27T23:08:29+00:00
 #url /articles/experiencing-god-introduction/
-image: images/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-20.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-20.jpg"
 wpdiscuz_post_rating_count:
   - 1
 wpdiscuz_post_rating:

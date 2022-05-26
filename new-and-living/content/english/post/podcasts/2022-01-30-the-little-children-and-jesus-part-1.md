@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-01-30T18:55:46+00:00
 #url /podcasts/the-little-children-and-jesus-part-1/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_banner:
   - default
 axil_bottom_padding:

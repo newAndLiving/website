@@ -4,7 +4,8 @@ author: GBENGA AKINDELE
 type: "regular"
 date: 2022-04-27T22:51:05+00:00
 #url /podcasts/staying-on-the-potters-wheel-part-2/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_post_layout:
   - default
 axil_page_menu:

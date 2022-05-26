@@ -1,6 +1,7 @@
 ---
 title: "Hi, I Am John Doe"
-image: "images/author-full.jpg"
+images: 
+  - "images/author-full.jpg"
 # description
 description: "This is meta description"
 layout: "about"

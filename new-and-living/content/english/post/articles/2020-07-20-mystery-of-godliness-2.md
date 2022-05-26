@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-07-20T14:44:06+00:00
 #url /articles/mystery-of-godliness-2/
-image: images/wp-content/uploads/2020/07/THE-MYSTERY-OF-THE-GOSPEL.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/THE-MYSTERY-OF-THE-GOSPEL.jpg"
 axil_layout:
   - default
 axil_sidebar:

@@ -4,7 +4,8 @@ author: Author
 type: "regular"
 date: 2020-08-27T09:44:15+00:00
 #url /podcasts/zaras-success-story-the-final-part-youth-episode/
-image: images/wp-content/uploads/2020/07/Podcast.jpg
+images: 
+  - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
 axil_layout:
   - default
 axil_sidebar:
