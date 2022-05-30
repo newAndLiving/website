@@ -1,11 +1,11 @@
 ---
 title: “…Experiencing God…” Introduction.
 author: GBENGA AKINDELE
-type: "regular"
+type: "featured"
 date: 2022-04-27T23:08:29+00:00
 #url /articles/experiencing-god-introduction/
 images: 
-  - "images/post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500-20.jpg"
+  - "images/post/featured-images/1.jpg"
 wpdiscuz_post_rating_count:
   - 1
 wpdiscuz_post_rating:
