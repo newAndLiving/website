@@ -1,18 +1,17 @@
 ---
 title: “…REHOBOTH…” (Part 6)
 author: Oduanyo Rotimi
-type: "regular"
+type: "featured"
 date: 2022-02-03T00:26:59+00:00
 #url /articles/rehoboth-part-6/
 images: 
-  - "images/post/wp-content/uploads/2022/02/Relentlessness.jpeg"
+  - "images/post/featured-images/2.jpg"
 wpdiscuz_post_rating_count:
   - 1
 wpdiscuz_post_rating:
   - 5
 categories:
   - Articles
-  - Featured
 tags:
   - Reassurance
   - Rehoboth

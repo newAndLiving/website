@@ -10,7 +10,6 @@ categories:
   - Articles
   - Featured
 tags:
-  - but now
   - ditches
   - dry bones
 
