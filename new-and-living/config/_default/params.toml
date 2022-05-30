@@ -107,12 +107,12 @@ sidebar = ["search", "about-me", "subscription", "categories", "recent-post", "t
 [[social]]
 name = "facebook"
 icon = "fab fa-facebook" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+link = "https://facebook.com/thisnewandliving.way.9"
 
 [[social]]
 name = "twitter"
 icon = "fab fa-twitter" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/lampstand_tech"
 
 # [[social]]
 # name = "linkedin"
@@ -122,4 +122,4 @@ link = "#"
 [[social]]
 name = "youtube"
 icon = "fab fa-youtube" # fontawesome icons: https://fontawesome.com/icons/
-link = "#"
+link = "https://youtube.com/channel/UCi6bLi9DtNP6BdZgg-bcykw"
