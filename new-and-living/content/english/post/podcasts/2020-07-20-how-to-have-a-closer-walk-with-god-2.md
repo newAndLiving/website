@@ -6,34 +6,7 @@ date: 2020-07-20T11:53:19+00:00
 #url /podcasts/how-to-have-a-closer-walk-with-god-2/
 images: 
   - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
-axil_layout:
-  - default
-axil_sidebar:
-  - default
-axil_top_padding:
-  - default
-axil_bottom_padding:
-  - default
-axil_page_menu:
-  - default
-axil_top_bar:
-  - default
-axil_header_area:
-  - default
-axil_header:
-  - default
-axil_footer_top:
-  - default
-axil_footer_area:
-  - default
-axil_footer:
-  - default
-axil_banner:
-  - default
-axil_breadcrumb:
-  - default
-axil_post_layout:
-  - default
+
 categories:
   - Podcasts
 tags:

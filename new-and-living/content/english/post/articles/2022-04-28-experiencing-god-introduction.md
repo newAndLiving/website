@@ -53,4 +53,4 @@ Shalom.
 
 Every Blessing in Christ.
 
-### **&#8216;GBENGA AKINDELE {GA}.**
+### &#8216;GBENGA AKINDELE {GA}.

@@ -6,34 +6,7 @@ date: 2020-07-20T15:16:23+00:00
 #url /articles/the-book-of-esther-2/
 images: 
   - "images/post/wp-content/uploads/2020/07/God-Guiding.jpg"
-axil_layout:
-  - default
-axil_sidebar:
-  - default
-axil_top_padding:
-  - default
-axil_bottom_padding:
-  - default
-axil_page_menu:
-  - default
-axil_top_bar:
-  - default
-axil_header_area:
-  - default
-axil_header:
-  - default
-axil_footer_top:
-  - default
-axil_footer_area:
-  - default
-axil_footer:
-  - default
-axil_banner:
-  - default
-axil_breadcrumb:
-  - default
-axil_post_layout:
-  - default
+
 categories:
   - Articles
 tags:

@@ -6,10 +6,7 @@ date: 2022-02-02T23:50:42+00:00
 #url /articles/rehoboth-part-5/
 images: 
   - "images/post/wp-content/uploads/2022/02/Restoration.jpeg"
-wpdiscuz_post_rating:
-  - 5
-wpdiscuz_post_rating_count:
-  - 1
+
 categories:
   - Articles
   - Featured

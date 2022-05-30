@@ -23,8 +23,6 @@ So, for you to remain faithful through trials, perils, persecution, tribulation,
 
 Find out in this Part 2 of this active conversation the answer to Jesus million-dollar question. Shalom!
 
-
-
 &nbsp;
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

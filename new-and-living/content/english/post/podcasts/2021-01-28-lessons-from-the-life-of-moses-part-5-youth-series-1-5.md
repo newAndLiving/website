@@ -55,8 +55,6 @@ For Moses in Egypt, two things played out for him, **_Faith and Estimation_**. H
 
 Join Sister Busola in this engaging Part 5 of your preferred Lampstand Podcast to find out Moses choice. Shalom!
 
-
-
 &nbsp;
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

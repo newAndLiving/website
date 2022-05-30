@@ -23,8 +23,6 @@ So, in this Part 2 with Sister Busola, we were prompted to discover that Identit
 
 And what might the solution be? Just click the play and find out. Shalom!
 
-
-
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.
 
 <!-- /wp:paragraph -->

@@ -23,8 +23,6 @@ What does faith work then? And how do I live by faith? In whom should my faith b
 
 So, to answer all these questions, why don’t you come along and find out how the things that are possible to God are equally 100% possible to whosoever **_have faith in God_**. Season’s Greetings. Shalom!
 
-
-
 &nbsp;
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

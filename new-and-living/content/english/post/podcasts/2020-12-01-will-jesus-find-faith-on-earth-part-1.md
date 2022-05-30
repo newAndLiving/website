@@ -23,8 +23,6 @@ Join Bro. Tony and I as we actively discuss the answer to Jesus question on this
 
 &nbsp;
 
-
-
 &nbsp;
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.

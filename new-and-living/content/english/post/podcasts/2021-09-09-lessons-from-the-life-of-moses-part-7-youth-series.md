@@ -21,12 +21,10 @@ Do you know that, Moses, while in Egypt made a choice of a lifetime? Have you ta
 
 In this final episode, Moses made a choice of a lifetime based on his Identity and Estimation.
 
-So, are you about to make a choice of a lifetime? 
+So, are you about to make a choice of a lifetime?
 
 Then, join Sis. Busola and Gbenga in this Lampstand Podcast for tips on Choice making while you are still young.
 
 Shalom!
-
-
 
 Do you have a question, comment or prayer request? Kindly let us know in the comment section below.
