@@ -6,34 +6,7 @@ date: 2021-03-28T22:01:03+00:00
 #url /podcasts/godless-esaus-of-today-part-2-youth-series/
 images: 
   - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
-axil_banner:
-  - default
-axil_bottom_padding:
-  - default
-axil_footer_top:
-  - default
-axil_footer:
-  - default
-axil_breadcrumb:
-  - default
-axil_header:
-  - default
-axil_top_padding:
-  - default
-axil_page_menu:
-  - default
-axil_post_layout:
-  - default
-axil_footer_area:
-  - default
-axil_top_bar:
-  - default
-axil_sidebar:
-  - default
-axil_header_area:
-  - default
-axil_layout:
-  - default
+
 categories:
   - Podcasts
 tags:
@@ -52,8 +25,6 @@ Esau simply lost sight of eternity because of temporary fleeting pleasure. He pl
 This episode taught us that those who reject divine inheritance through Christ because of worldly pleasure, will have only bitterness and sorrow in their future.
 
 But my friend, here is the Good News, there is great chance for you to repent today. Listen to this Lampstand Podcast for how your situation can be turned around in Jesus name. Shalom!
-
-
 
 &nbsp;
 

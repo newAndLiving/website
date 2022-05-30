@@ -6,34 +6,7 @@ date: 2021-09-06T20:23:58+00:00
 #url /podcasts/how-to-keep-your-fire-burning-2-discussion-with-princess/
 images: 
   - "images/post/wp-content/uploads/2020/07/Podcast.jpg"
-axil_footer:
-  - default
-axil_breadcrumb:
-  - default
-axil_header:
-  - default
-axil_page_menu:
-  - default
-axil_post_layout:
-  - default
-axil_footer_area:
-  - default
-axil_top_padding:
-  - default
-axil_top_bar:
-  - default
-axil_sidebar:
-  - default
-axil_header_area:
-  - default
-axil_layout:
-  - default
-axil_banner:
-  - default
-axil_bottom_padding:
-  - default
-axil_footer_top:
-  - default
+
 categories:
   - Podcasts
 tags:
