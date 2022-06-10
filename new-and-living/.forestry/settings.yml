@@ -12,7 +12,7 @@ sections:
 - type: heading
   label: Major
 - type: directory
-  path: content/english/post/articles
+  path: english/post/articles
   label: Articles
   create: all
   match: "**/*"
