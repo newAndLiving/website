@@ -4,8 +4,23 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: content/english/post/podcasts
+  label: Podcasts
+  create: all
+  match: "**/*"
 - type: heading
   label: Major
+- type: directory
+  path: content/english/post/articles
+  label: Articles
+  create: all
+  match: "**/*"
+- type: directory
+  path: new-and-living/content/english
+  label: English
+  create: all
+  match: "**/*"
 - type: directory
   path: new-and-living/content
   label: Pages
@@ -14,11 +29,6 @@ sections:
 - type: directory
   path: new-and-living/content/french
   label: French
-  create: all
-  match: "**/*"
-- type: directory
-  path: new-and-living/content/english
-  label: English
   create: all
   match: "**/*"
 upload_dir: new-and-living/static/uploads
