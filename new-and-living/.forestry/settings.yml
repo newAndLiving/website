@@ -5,14 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/english/post/podcasts
+  path: new-and-living/content/english/post/podcasts
   label: Podcasts
   create: all
   match: "**/*"
 - type: heading
   label: Major
 - type: directory
-  path: english/post/articles
+  path: new-and-living/content/post/articles
   label: Articles
   create: all
   match: "**/*"
