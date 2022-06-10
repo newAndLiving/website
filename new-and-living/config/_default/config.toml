@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://kaleidoscopic-hummingbird-650eb5.netlify.app"
+baseURL = "https://thisnewandlivingway.org/"
 title = "This New and Living Way Blog"
 theme = "logbook"
 # post pagination

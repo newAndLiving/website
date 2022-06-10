@@ -93,6 +93,11 @@ name = "homepage"
     name = "Contact Us"
     url = "contact"
     weight = 2
+  
+  [[main]]
+  name = "Admin"
+  url = "https://app.forestry.io/sites/mx0r9bhwqtt34g/#/"
+  weight = 6
 
 
 
