@@ -14,7 +14,7 @@ sections:
 - type: heading
   label: Blog Posts
 - type: directory
-  path: content/english/post
+  path: new-and-living/content/english/post/articles
   label: English
   create: all
   match: "**/*"
