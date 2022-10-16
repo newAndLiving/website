@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Podcast
 - type: directory
   path: new-and-living/content/english/post/podcasts
   label: Podcasts
