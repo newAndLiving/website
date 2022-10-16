@@ -10,22 +10,12 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Major
-- type: directory
-  path: new-and-living/content/post/articles
-  label: Articles
-  create: all
-  match: "**/*"
+  label: Blog Posts
 - type: directory
   path: new-and-living/content/english
   label: English
   create: all
   match: "**/*"
-- type: directory
-  path: new-and-living/content
-  label: Pages
-  create: all
-  match: "*"
 - type: directory
   path: new-and-living/content/french
   label: French
