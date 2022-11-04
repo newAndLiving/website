@@ -4,22 +4,22 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: author
-  label: author
+  label: Author
 - type: text
   name: type
-  label: type
+  label: Type
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: image_gallery
   name: images
-  label: images
+  label: Images
 - type: list
   name: categories
-  label: categories
+  label: Categories
 - type: list
   name: tags
-  label: tags
+  label: Tags
