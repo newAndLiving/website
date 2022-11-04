@@ -2,7 +2,7 @@
 author = "Oduanyo"
 categories = ["Podcasts"]
 date = 2022-11-03T23:00:00Z
-images = ["sys-ana.png"]
+images = []
 tags = ["Seek ye first", "youth"]
 title = "Sample Post"
 type = "regular"
