@@ -1,9 +1,8 @@
 +++
-author = "Author"
+author = "Oduanyo"
 categories = ["Podcasts"]
-date = 2020-07-22T11:56:03Z
-draft = true
-images = ["images/post/wp-content/uploads/2020/07/Podcast.jpg"]
+date = 2022-11-03T23:00:00Z
+images = ["sys-ana.png"]
 tags = ["Seek ye first", "youth"]
 title = "Sample Post"
 type = "regular"
