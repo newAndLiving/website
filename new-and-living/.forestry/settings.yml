@@ -23,8 +23,8 @@ sections:
   label: French
   create: all
   match: "**/*"
-upload_dir: assets/images
-public_path: images/post/wp-content/uploads/2020/07/Welcome-Note-1.jpg
+upload_dir: new-and-living/assets/images
+public_path: new-and-living/assets/images
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
