@@ -1,15 +1,13 @@
 ---
 title: Welcome Note
 author: Author
-type: "regular"
-date: 2020-07-20T11:38:23+00:00
-#url /articles/welcome-note/
-images: 
-  - "images/post/wp-content/uploads/2020/07/Welcome-Note-1.jpg"
-
+type: regular
+date: 2022-11-04T11:38:23+00:00
+images:
+- images/post/wp-content/uploads/2020/07/Welcome-Note-1.jpg
 categories:
-  - Articles
-  - Featured
+- Articles
+- Featured
 
 ---
 Dearly Beloved in Christ Jesus, it is with great pleasure I welcome you to the maiden edition of the article section. The good Lord has been gracious unto us to create this medium for us to reach one another in the unity of faith and the bond of one love in Christ Jesus. So, that we can actively share with you our personal experience of the divine blessedness of who Christ is and what He has done and can still do in our lives and in this end time.
