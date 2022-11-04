@@ -1,7 +1,7 @@
 +++
 author = "Oduanyo"
 categories = ["Podcasts"]
-date = 2022-11-03T23:00:00Z
+date = 2022-11-02T23:00:00Z
 images = ["post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500.jpg"]
 tags = ["Seek ye first", "youth"]
 title = "Sample Post"
