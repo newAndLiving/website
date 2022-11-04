@@ -2,8 +2,7 @@
 author = "Author"
 categories = ["Articles", "Featured"]
 date = 2022-11-04T11:38:23Z
-draft = true
-images = ["images/post/wp-content/uploads/2020/07/Welcome-Note-1.jpg"]
+images = ["new-and-living/assets/images/post/wp-content/uploads/2020/11/highcompress_The-New-Living-Way-Community-Website-Blog-Image-Template-500-x-500.jpg"]
 title = "Sample Post"
 type = "regular"
 
