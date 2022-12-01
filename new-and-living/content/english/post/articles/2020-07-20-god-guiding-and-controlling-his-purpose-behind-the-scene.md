@@ -1,15 +1,14 @@
 ---
 title: The Book of Esther 1
 author: Author
-type: "regular"
-date: 2020-07-20T14:11:22+00:00
-#url /articles/god-guiding-and-controlling-his-purpose-behind-the-scene/
-images: 
-  - "images/post/God-Guiding-500x450.jpg"
+type: regular
+date: 2022-12-01T22:58:22+00:00
+images:
+- images/post/God-Guiding-500x450.jpg
 categories:
-  - Articles
+- Articles
 tags:
-  - Esther
+- Esther
 
 ---
 ### God Guiding and Controlling his Purpose Behind the Scene
